@@ -1,37 +1,30 @@
-<h2> :snowflake: Weather Forecasting Analysis and Visualization Project</h2>
+# Meteorological-Data-Analysis-using-Python
 
-<h3>About the Project</h3>
-<img src="weather_analysis.png"/>
-<p>This project is aimed at providing insights and visual representations of various weather patterns and trends, by analyzing and comparing weather data of different cities and regions across the world. The project uses various data analysis and visualization tools to help users understand the weather patterns and trends in a visually appealing and easy-to-understand manner.</p>
+It can also be termed as Weather analysis or Meteorological data analysis.
 
-<hr>
-<h3>:books: Project Description</h3>
+![image](https://user-images.githubusercontent.com/22562694/122146578-fbbe1a00-ce74-11eb-958d-4ce18a21eef2.png)
 
-<p>The project makes use of various data sources to gather weather information such as temperature, precipitation, pressure, and other important meteorological data. This data is then processed and analyzed using various data analysis and visualization tools such as <b>SQL, Excel, Power BI/ Tableau and Python.</b> The results of this analysis are then presented to the users through interactive visualizations and graphs, making it easier for them to understand and analyze weather trends and patterns.</p>
+Data analysis can be described as a process consisting of several steps in which the raw data are transformed and processed in order to produce Data Visualizations and make predictions. Data analysis is schematized as a process chain consisting of the following sequence of Stages:
 
-<hr>
-<h3>:bar_chart: Power BI Dashboard - Overview</h3>
-<img src="https://raw.githubusercontent.com/AR10X/data-analysis/Ash/img/Dashboard.png" width=50%>
-<hr>
-<h3>:calling: Tech Used</h3>
+![image](https://user-images.githubusercontent.com/22562694/121211631-43074200-c89a-11eb-8ed3-543b449f1096.png)
 
-<p>The following tools and technologies are used in the project:</p>
+Null Hypothesis means we need to find whether the average apparent temperature for the month of say April starting from 2006 to 2016 and the Average humidity for the same period have increased or not.
 
-<details open><summary>SQL (MYSQL):</summary> Used for managing and storing the large amounts of weather data that is collected for the analysis.</details>
+![image](https://user-images.githubusercontent.com/22562694/121211708-54e8e500-c89a-11eb-9f37-3942888c1e4a.png)
 
-<details open><summary>Power BI/ Tableau:</summary> Used for creating interactive and visually appealing dashboards, charts and graphs that present the results of the weather data analysis.</details>
+Fig. 1: Screenshot of the graph of the changes in the Apparent Temperature and Humidity with the Time.
 
-<details open><summary>Excel:</summary> Used for performing basic data analysis and manipulation tasks such as sorting, filtering, and aggregating data.</details>
 
-<details open><summary>Python:</summary> Used for developing custom scripts and algorithms that are used to process and analyze the weather data. The project also makes use of various Python libraries such as Pandas and Matplotlib for data analysis and visualization purposes.</details>
-<hr>
+![download](https://user-images.githubusercontent.com/22562694/122056458-3ab58680-ce07-11eb-9b45-c269a055c48c.png)
 
-<h3>:house: Data Wizards Members </h3>
+Fig. 2: Screenshot of the Plot of Yearwise changes in the Apparent Temp and Humidity for the April month.
 
-1. [Abdul Rehaman](https://github.com/AR10X)
-2. [Ashrith M R](https://github.com/ashhh-01)
-3. [Danish Hasan](https://github.com/DanishHasan14321)
-4. [Shiwali Verma](https://github.com/AR10X/data-analysis)
-<hr>
+![image](https://user-images.githubusercontent.com/22562694/122056968-c29b9080-ce07-11eb-89ca-b16ed53f235d.png)
 
+
+For More information, Visit here:
+
+https://medium.com/data-science-and-machine-learning-by-arnab-dey/meteorological-data-analysis-using-python-816a290f76a2
+
+If you Liked the code do give a star to support and keep supporting for more such works and implementation.
 
